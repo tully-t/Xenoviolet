@@ -14,7 +14,7 @@ Xenoviolet-gtk is a dark, colorful GTK3 theme designed to complement the Xenovio
 
 ![screenshot of widget factory with Xenoviolet-gtk theme](preview/screenshot-01.png)
 
-![screenshot of widget factory page 2 with Xenoviolet-gtk theme](preview/screenshot-02.png)
+![screenshot of widget factory page 2 with Xenoviolet-gtk theme](preview/screenshot-002.png)
 
 ![screenshot of Inkscape with Xenoviolet-gtk theme](preview/screenshot-03.png)
     
