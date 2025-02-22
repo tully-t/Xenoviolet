@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Xenoviolet-gtk
+Comment=A dark GTK theme to match the Xeno KDE theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Xenoviolet-gtk
+MetacityTheme=Xenoviolet-gtk
+IconTheme=Sours
+CursorTheme=Sweet-cursors
+ButtonLayout=close,minimize,maximize:menu
