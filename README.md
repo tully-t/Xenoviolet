@@ -1,4 +1,4 @@
-# Xenoviolet Theme Suite
+# Xenoviolet
 
 Xenoviolet is a dark suite of themes for KDE with colorful gradients, tempered transparency, and a cyberpunk glow. This theme is developed with a commitment to chasing the pipe dream of a unified visual experience across Qt, Kirigami, and GTK.
 
