@@ -11,12 +11,6 @@ Xenoviolet-gtk is a dark, colorful GTK3 theme designed to complement the Xenovio
 - CSD similar to Xeno Aurorae window decoration (as a graceful fallback when SSD are unavailable)
     - Close/Min/Max buttons grow when hovered, and glow when pressed
     - Active windows glow, inactive windows have an inverted shadow (window edges are always apparent)
-
-![screenshot of widget factory with Xenoviolet-gtk theme](preview/screenshot-01.png)
-
-![screenshot of widget factory page 2 with Xenoviolet-gtk theme](preview/screenshot-002.png)
-
-![screenshot of Inkscape with Xenoviolet-gtk theme](preview/screenshot-03.png)
     
 ## Installation:
 
@@ -25,6 +19,12 @@ Xenoviolet-gtk is a dark, colorful GTK3 theme designed to complement the Xenovio
 - Copy the Xenoviolet-gtk folder to ~/.themes/ (create it if necessary)
 - We now have a folder in ~/.themes/ named "Xenoviolet-gtk" containing the theme content (gtk2.0, gtk3.0, index.theme)
 - In System Settings -> Appearance -> Application Style -> Configure GNOME/GTK application style, select "Xenoviolet-gtk" as your GTK theme, and click Apply
+
+![screenshot of widget factory with Xenoviolet-gtk theme](preview/screenshot-01.png)
+
+![screenshot of widget factory page 2 with Xenoviolet-gtk theme](preview/screenshot-002.png)
+
+![screenshot of Inkscape with Xenoviolet-gtk theme](preview/screenshot-03.png)
 
 ## Customization:
 
